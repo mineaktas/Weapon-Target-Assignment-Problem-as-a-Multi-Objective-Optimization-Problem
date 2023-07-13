@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+author:
+- family-names: "Aktaş"
+  given-names: "Mine"
+title: "Weapon-Target-Assignment-Problem-as-a-Multi-Objective-Optimization-Problem"
+version: 1.0.0
+date-released: 2023-07-13
+url: "https://github.com/mineaktas/Weapon-Target-Assignment-Problem-as-a-Multi-Objective-Optimization-Problem"
